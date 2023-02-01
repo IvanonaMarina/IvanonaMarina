@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 <!--
 **IvanonaMarina/IvanonaMarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l3ZrVw8NkxIly/giphy.gif" width="500"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=IvanonaMarina&style=flat-square&color=red" alt=""/>
